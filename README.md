@@ -18,4 +18,4 @@
 
 * For this notebook to work, the above files must be downloaded and saved as CSV (Comma delimited) (*.csv) files in the same folder as this notebook.
 
-* To download/refresh the data, click on each of the above links, locate ***"Data available as: CSV, JSON and XML"***, right click on ***"CSV"*** and save the file without changing its name in the same location as this notebook.
+* To download/refresh the data, click on each of the above links, locate ***"Data available as: CSV, JSON and XML"***, right click on ***"CSV"*** and save the file without changing its name in the same location as this notebook..
